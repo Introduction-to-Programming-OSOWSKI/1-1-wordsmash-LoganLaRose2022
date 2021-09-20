@@ -1,1 +1,4 @@
-#WRITE YOUR CODE HERE
+def wordsmash():
+    return "A + B"
+    
+
