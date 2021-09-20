@@ -1,4 +1,5 @@
-def wordsmash():
-    return "A + B"
-    
+def wordsmash(a,b):
+    return a + b
+
+
 
