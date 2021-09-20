@@ -1,4 +1,4 @@
-def wordsmash(a,b):
+def wordSmash(a,b):
     return (a + b)
 
 
